@@ -3,7 +3,7 @@
 <!-- ------------------------------------------------------- -->
 
 <p align="center">
-  <img src="C:\Users\prati\Downloads\banner for TechShop.png" alt="TechShop Hero Banner" width="100%" />
+  <img src="banner for TechShop.png" alt="TechShop Hero Banner" width="100%" />
 </p>
 
 <h1 align="center">⚡ TechShop — Modern Shopping Cart Application</h1>
