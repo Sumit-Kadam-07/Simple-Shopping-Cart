@@ -19,13 +19,6 @@
 
 ---
 
-## 🌐 Live Preview & Demo
-
-- 🎬 **Demo Video:** [Watch Walkthrough](#)
-
-> _(Replace with your actual Vercel deployment URL and demo video link. See [DEPLOYMENT.md](./DEPLOYMENT.md) for deployment guide.)_
-
----
 
 ## ✨ Core Features
 
