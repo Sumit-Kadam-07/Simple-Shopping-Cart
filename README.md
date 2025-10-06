@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/tests-100%25-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/deployment-Vercel-black?style=for-the-badge&logo=vercel" />
 </p>
 
@@ -219,36 +218,12 @@ This project is configured for easy deployment to Vercel. Follow these steps:
    git push origin main
    ```
 
-2. **Import to Vercel**
-   - Go to [vercel.com](https://vercel.com)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Vercel will auto-detect Vite settings
-   - Click "Deploy"
-
-3. **Update README**
-   - Replace the demo link with your Vercel URL
-
-### Configuration
-
-The project includes:
-- `vercel.json` - Deployment configuration
-- `api/index.js` - Serverless API functions
-- Auto-deploys on every push to `main`
-
-For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md)
-
----
 
 ## 🌍 Browser Support
 ✅ Chrome
 ✅ Firefox
 ✅ Safari
 ✅ Edge
-
-📜 License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
