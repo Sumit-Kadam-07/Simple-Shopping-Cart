@@ -2,6 +2,13 @@
 
 A beautiful, fully-featured e-commerce shopping cart application with a modern UI, smooth animations, and a robust backend. Built with React, TypeScript, Express, and styled with Tailwind CSS.
 
+## 🎥 Demo & Live Preview
+
+- **Live Preview**: [View Live Application](#) _(Add your deployment URL here)_
+- **Demo Video**: [Watch Demo](#) _(Add your video link here)_
+
+> **Note**: Replace the placeholder links above with your actual deployment URL and demo video link.
+
 ## Features
 
 - **Product Catalog**: Browse 8 premium tech products with high-quality images
