@@ -221,10 +221,4 @@ This project is configured for easy deployment to Vercel. Follow these steps:
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-bash
-Copy code
-git checkout -b feature/amazing-feature
-git commit -m "✨ Add amazing feature"
-git push origin feature/amazing-feature
-Then open a Pull Request 🚀
 
