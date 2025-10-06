@@ -22,10 +22,10 @@
 
 ## 🌐 Live Preview & Demo
 
-- 🎯 **Live App:** [View Live Demo](#)  
-- 🎬 **Demo Video:** [Watch Walkthrough](#)  
+- 🎯 **Live App:** [View Live Demo](https://your-project-name.vercel.app)
+- 🎬 **Demo Video:** [Watch Walkthrough](#)
 
-> _(Replace the `#` links above with your actual deployment and demo video.)_
+> _(Replace with your actual Vercel deployment URL and demo video link. See [DEPLOYMENT.md](./DEPLOYMENT.md) for deployment guide.)_
 
 ---
 
@@ -204,7 +204,44 @@ Category	Choice	Description
 
 🗄️ Database Integration (Supabase or MongoDB)
 
-🌍 Browser Support
+---
+
+## 🚀 Deploying to Vercel
+
+This project is configured for easy deployment to Vercel. Follow these steps:
+
+### Quick Deploy
+
+1. **Push to GitHub**
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git push origin main
+   ```
+
+2. **Import to Vercel**
+   - Go to [vercel.com](https://vercel.com)
+   - Click "New Project"
+   - Import your GitHub repository
+   - Vercel will auto-detect Vite settings
+   - Click "Deploy"
+
+3. **Update README**
+   - Replace the demo link with your Vercel URL
+
+### Configuration
+
+The project includes:
+- `vercel.json` - Deployment configuration
+- `api/index.js` - Serverless API functions
+- Auto-deploys on every push to `main`
+
+For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md)
+
+---
+
+## 🌍 Browser Support
 ✅ Chrome
 ✅ Firefox
 ✅ Safari
