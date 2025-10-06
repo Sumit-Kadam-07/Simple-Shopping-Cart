@@ -2,9 +2,7 @@
 <!-- ✨ TECHSHOP - MODERN SHOPPING CART APPLICATION README ✨ -->
 <!-- ------------------------------------------------------- -->
 
-<p align="center">
-  <img src="banner for TechShop.png" alt="TechShop Hero Banner" width="100%" />
-</p>
+
 
 <h1 align="center">⚡ TechShop — Modern Shopping Cart Application</h1>
 
@@ -226,4 +224,3 @@ git commit -m "✨ Add amazing feature"
 git push origin feature/amazing-feature
 Then open a Pull Request 🚀
 
-<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/techshop/main/public/footer-banner.png" width="80%" alt="TechShop Footer Banner"/> </p> <p align="center"> <strong>Made with ❤️ by <a href="https://github.com/yourusername">Pratik Kadam</a></strong><br/> <sub>Built with React · TypeScript · Express · Tailwind CSS</sub> </p>
