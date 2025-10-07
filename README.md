@@ -193,16 +193,6 @@ Category	Choice	Description
 
 ⚙️ Admin Dashboard
 
-🗄️ Database Integration (Supabase or MongoDB)
-
----
-
-## 🚀 Deploying to Vercel
-
-This project is configured for easy deployment to Vercel. Follow these steps:
-
-### Quick Deploy
-
 1. **Push to GitHub**
    ```bash
    git init
